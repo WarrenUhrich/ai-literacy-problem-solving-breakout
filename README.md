@@ -1,5 +1,7 @@
 # Lighthouse Labs | AI Literacy: Problem Solving
 
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-ai-literacy-problem-solving-breakout/tree/2024-05-13-web-immersive-national-1april2024) | [Vimeo Video Recording](https://vimeo.com/945959748/817ff06ac5?share=copy)
+
 ## Problem Solving Steps
 
 * Read and understand the problem
